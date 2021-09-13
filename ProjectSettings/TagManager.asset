@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hazard
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -11,15 +13,15 @@ TagManager:
   - 
   - Water
   - UI
+  - Player
+  - 
+  - Hazard
+  - 
+  - 
+  - 
+  - 
+  - 
   - Blocking
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
   - 
   - 
   - 
@@ -43,4 +45,10 @@ TagManager:
     locked: 0
   - name: Blocking
     uniqueID: 441943367
+    locked: 0
+  - name: Hazard
+    uniqueID: 555925317
+    locked: 0
+  - name: Player
+    uniqueID: 1057187527
     locked: 0

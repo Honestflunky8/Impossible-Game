@@ -3,6 +3,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+[Uu]sersettings/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -35,3 +37,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#*. whatever blocks all of that
+# assets/Scripts/somefile.png blocks a certain file
+# word/ removes all in word

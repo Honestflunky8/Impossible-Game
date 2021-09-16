@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: ApplicationVariables
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"UIMessageText","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"UIMessageText","value":null,"$version":"A"},{"name":"PlayButton","value":{"$content":"Play","$type":"System.String"},"$version":"A"},{"name":"PauseButton","value":{"$content":"Pause","$type":"System.String"},"$version":"A"},{"name":"ButtonUIText","value":null,"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
